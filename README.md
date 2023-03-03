@@ -1,6 +1,6 @@
 # dockerized_api_example
 
-This is an example of a dockerized API and some detailed instructions on how to build it.
+This is an example of a dockerized API and some detailed on how to build it.
 
 ### 1. Write a single Python function that runs your trained model and returns the output. 
 
